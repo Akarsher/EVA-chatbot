@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import google.generativeai as genai
 import markdown2
 # Configure the API key
-genai.configure(api_key="AIzaSyAg2Q5vhu-4KaIMXzOP8Aq79JWrDQED1NU")
+genai.configure(api_key="Your API-key")
 
 app = Flask(__name__)
 
