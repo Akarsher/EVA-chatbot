@@ -14,4 +14,4 @@ EVA provides intelligent, human-like responses and can handle a variety of queri
    pip install -r requirements.txt
 2. Run the application:
    python app.py
-3. Open http://127.0.0.1:5000 in your browser.   
+3. Open the link in your browser.   
